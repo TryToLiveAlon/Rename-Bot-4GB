@@ -14,13 +14,13 @@ STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1002222755917")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002149472838"))
 
 
 # Mongo DB Database Config
 DATABASE_URL = os.environ.get("DATABASE_URL", "")
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "Deathkingworld")
 
 
 # Other Variables Config
@@ -32,9 +32,9 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d
 
 # If You Need To Add Verify System Then Message Me On Telegram
 # Check Demo Bots
-# https://t.me/FileRenameXBot
-# https://t.me/PremiumRenamerRobot
-# https://t.me/FileRenamerXRobot
+# https://t.me/
+# https://t.me/
+# https://t.me/
 # Token Verification Adding Features Is Paid So If You Want Then Dm Me
 
 
